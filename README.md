@@ -1,4 +1,4 @@
-📱 QR-Based Smart Campus Attendance and Real-Time Parent Notification System
+📱 QRattend: QR-Based Smart Campus Attendance and Real-Time Parent Notification System
 🧩 Introduction
 
 The QR-Based Smart Campus Attendance and Real-Time Parent Notification System automates student attendance monitoring using QR codes. Manual attendance processes are often time-consuming, error-prone, and inefficient for large classes. This system enables teachers to record attendance effortlessly while automatically notifying parents about absences or tardiness via SMS or email.
