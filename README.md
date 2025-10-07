@@ -77,10 +77,16 @@ School Administrators: For efficient monitoring and reporting.
 🧾 Dashboard for Teachers and Administrators
 
 💻 Technologies and Tools
+
 Database:	MySQL
+
 Backend:	Laravel (PHP)
+
 Frontend:	React.js
+
 Email Integration:	EmailJS
+
 Calendar Management:	Google Calendar API
+
 QR Code Generation:	qrcode.react
 QR Code Scanning:	react-qr-reader
